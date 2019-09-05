@@ -1,13 +1,13 @@
 
 
 //nav links 
-const navLinks = document.querySelectorAll("nav a");
+// const navLinks = document.querySelectorAll("nav a");
 
-function navLinksHover(event) {
-  event.target.style.color = "black";
-  event.target.style.fontSize = "2.5rem";
-  event.target.style.fontWeight = "bold";
-}
+// function navLinksHover(event) {
+//   event.target.style.color = "black";
+//   event.target.style.fontSize = "2.5rem";
+//   event.target.style.fontWeight = "bold";
+// }
 
 // function navLinksNoHover(event) {
 //   event.target.style.color = "black";
